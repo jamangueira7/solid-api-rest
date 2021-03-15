@@ -36,7 +36,7 @@ Esse projeto foi feito acompanhando a video aula do Youtube, [clique aqui](https
 
 - Clone o projeto.
 - Roder o comando "yarn install" para instalar as dependências.
-- "yarn start" para executar o proejto.
+- "yarn start" para executar o projeto.
 - Para testar a API acesse localhost:3333.
 
 ## 👩🏿‍💻 Rotas
